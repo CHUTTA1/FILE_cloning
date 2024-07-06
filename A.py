@@ -182,6 +182,7 @@ import marshal
 def banner():
 	clear()
 	print(f"""
+ CHUTTA KING
 """)
 # LOGIN
 # new cooki 
