@@ -182,7 +182,6 @@ import marshal
 def banner():
 	clear()
 	print(f"""
- CHUTTA KING
 """)
 # LOGIN
 # new cooki 
@@ -284,7 +283,7 @@ def setting():
 		exit()
 	clear()
 	banner()
-	print('[01] WI-FI 4G 2G 3G 5G ')
+	print('[01] WI-FI 2G 3G 4G 5G ')
 	print("")
 	method.append('mobile')
 	clear()
